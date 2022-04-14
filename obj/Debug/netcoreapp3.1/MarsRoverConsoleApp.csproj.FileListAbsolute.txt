@@ -1,0 +1,13 @@
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.exe
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.deps.json
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.runtimeconfig.json
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.runtimeconfig.dev.json
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.dll
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\bin\Debug\netcoreapp3.1\MarsRoverConsoleApp.pdb
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.csprojAssemblyReference.cache
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.AssemblyInfo.cs
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.dll
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.pdb
+C:\Users\rolan\source\repos\MarsRoverExerciseByRolandNaranjo\MarsRoverConsoleApp\MarsRoverConsoleApp\obj\Debug\netcoreapp3.1\MarsRoverConsoleApp.genruntimeconfig.cache
