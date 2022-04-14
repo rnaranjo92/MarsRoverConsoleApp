@@ -55,8 +55,8 @@ namespace MarsRoverConsoleApp
                     Console.Clear();
 
                     // Display new position based on input. 
-                    Console.WriteLine("Rover Number is now in position : " + rover1.x + " " + rover1.y + " " + rover1.direction);
-                    Console.WriteLine("Rover Number is now in position : " + rover2.x + " " + rover2.y + " " + rover2.direction);
+                    Console.WriteLine("Rover Number 1 is now in position : " + rover1.x + " " + rover1.y + " " + rover1.direction);
+                    Console.WriteLine("Rover Number 2 is now in position : " + rover2.x + " " + rover2.y + " " + rover2.direction);
                     Console.WriteLine();
                     Console.WriteLine();
                     Console.WriteLine();
